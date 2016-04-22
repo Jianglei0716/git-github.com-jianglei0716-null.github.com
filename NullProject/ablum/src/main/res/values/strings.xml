@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ablum</string>
+    <string name="all_pic">所有图片</string>
+    <string name="pre_view">预览</string>
+    <string name="dismiss">取消</string>
+    <string name="done">完成</string>
+</resources>
